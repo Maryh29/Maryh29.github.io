@@ -1,0 +1,5 @@
+1. Extract ALL files into a NEW folder.
+2. Open index.html to view your website.
+3. Keep index.html, editor.html, styles.css, content.js and the assets and projects folders together.
+4. Optional: open editor.html to edit text or images, export content.js and replace the file in this folder.
+5. Do not move an individual HTML file out of this folder.

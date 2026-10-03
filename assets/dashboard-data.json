@@ -1,0 +1,16 @@
+{
+  "sample_only": true,
+  "basis": "Attended records matched to the sample employee master. Unmatched IDs excluded.",
+  "distinct_attendees": 50,
+  "attendance_records": 114,
+  "events_in_sample": 18,
+  "excluded_unmatched_attendances": 775,
+  "attendances_by_region": {
+    "Port Harcourt": 20,
+    "Lagos": 25,
+    "Abuja": 17,
+    "Agbami Warri": 17,
+    "Regional Support Hub": 18,
+    "Offshore Operations": 17
+  }
+}
